@@ -84,3 +84,7 @@ Most thread projects just print "Hello from Thread 1".
 This project makes the **unpredictability of threads** the feature — not the bug. The same property that makes threads hard to control (random scheduling) is exactly what generates new music every run.
 
 It is the same concept as jazz — fixed rules, random improvisation within those rules, different every time.
+
+---
+
+Built by the real builder — [Rishit](https://github.com/Rishitttttt)
